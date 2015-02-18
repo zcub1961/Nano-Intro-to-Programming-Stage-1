@@ -1,0 +1,31 @@
+.description { 
+	color:black;
+}
+
+h1 { 
+  background-color: maroon;
+  color:blue;}
+h2 {color:green;
+background-color:pink;}
+h3{color:red;
+background-color:white;}
+body{
+  background-color: grey;
+}
+
+.description2 {
+  background-color: white;
+}
+.CSS {
+  background-color: white;
+}
+
+.observation {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.boxes {
+  width: 100px;
+  height: 60px;
+}
